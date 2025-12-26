@@ -2,6 +2,8 @@
 
 A stunning, fully responsive implementation of the classic Tic-Tac-Toe game built with **React**. This project features a high-end **Glassmorphism UI**, smooth animations, and a modern dark theme powered by CSS variables.
 
+**🔗 Live Demo:** [https://tictactoe-modern-version.netlify.app/](https://tictactoe-modern-version.netlify.app/)
+
 ## ✨ Features
 
 *   **💎 Glassmorphism UI**: Frosted glass effects using `backdrop-filter`, gradients, and translucent borders for a premium look.
@@ -18,32 +20,6 @@ A stunning, fully responsive implementation of the classic Tic-Tac-Toe game buil
 *   **React** (v19)
 *   **CSS3** (Variables, Flexbox, Grid, Animations)
 *   **Parcel** (Bundler)
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-*   Node.js installed on your machine.
-
-### Installation
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/Hari-Prasanth-J-26/Tic_Tac_Toe.git
-    cd Tic_Tac_Toe/code
-    ```
-
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3.  Start the development server:
-    ```bash
-    npm start
-    ```
-
-4.  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 📂 Project Structure
 
