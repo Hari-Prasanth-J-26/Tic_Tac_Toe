@@ -32,7 +32,8 @@ src/
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your new UI here)*
+<img width="1468" height="810" alt="Screenshot 2025-12-26 at 8 43 15 PM" src="https://github.com/user-attachments/assets/399b2de1-e4a4-46f5-9550-fc61020e02dd" />
+
 
 ---
 Developed by **Hari Prasanth**
